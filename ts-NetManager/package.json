@@ -1,0 +1,21 @@
+{
+  "name": "tsnetman",
+  "version": "1.0.4",
+  "description": "Small network manager",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hwrld": "^2.1.1",
+    "tsnetman": "^1.0.4"
+  },
+  "devDependencies": {}
+}

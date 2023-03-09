@@ -1,0 +1,1 @@
+export {setStatic, renewDynamic, setMulticast, Configuration} from './network-manager';
